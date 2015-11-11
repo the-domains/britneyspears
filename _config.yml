@@ -1,6 +1,6 @@
 name: BritneySpears
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.34334
 typography_spectrum: 1
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#454b49'
     - '#fae29d'
   brandStrength: 0.5
-  lightness: 0.6957292098086327
-  saturation: 0.6558323525823653
-  rhythmicContrast: 0.9855552790686488
+  lightness: 0.0625
+  saturation: 0.5625
+  rhythmicContrast: 0.25
 purpose: []
